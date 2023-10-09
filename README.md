@@ -3,10 +3,7 @@
 ---
 
 ## My name is Thanathas Chawengvorakul
- Android developer @ Accenture and Data Science Enthusiast
-
-" EatSleep -> Code -> Error -> Fix -> Debug -> More error -> Regret my life -> Fixed it!! -> More error -> Repeat..."
-
+ Senioe Software Engineer @ Agoda
 
 ![Thanathas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanathasCh&show_icons=true&theme=slateorange )
 
@@ -21,27 +18,3 @@
 - Backend development
 - Artificial Intelligence (ML/DL)
 - Computer Vision
-- Being a programmer and have no life ;)
-
-### Programing Languages
-
----
-
-- C/C++
-- C#
-- Dart
-- DAX
-- Java
-- Javascript
-- Kotlin
-- LINQ
-- Meta Language
-- Prolog
-- Python
-- R
-- Swift
-- SQL  
-
-- HTML/CSS (Yeah I know, they are not programing languages)
-
-
